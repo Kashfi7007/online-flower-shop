@@ -1,7 +1,30 @@
-/* header part */
-.header{
-                              display: flex;
-                              width: 708px;
-                              flex-direction: column;
-                              flex-shrink: 0;
+* {
+     padding: 0%;
+     margin: 0%;
+}
+
+.banner-container {
+                /* width : Auto */
+               /* height : 900px; */
+               width: auto;
+               align-items: center;
+               background-color:rgba(229, 84, 115, 0.10); ;
+               /* padding: 190px 30px 30px 150px; */
+               display: flex;
+               padding-left: 180px; 
+}
+
+.banner-items {
+               margin-left: 20px;
+               align-items: center;
+}
+
+.banner-title {
+           
+}
+.btn {
+      
+}
+.banner-img {
+            
 }
