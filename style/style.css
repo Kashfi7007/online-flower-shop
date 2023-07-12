@@ -25,6 +25,20 @@
                               font-size: 80px;
                               font-weight: 800;   
 }
+.flower-des {
+                              color: rgba(39, 39, 39, 0.60);
+                              font-family: Lato;
+                              font-size: 18px;
+                              width: 85%;
+                              font-weight: 400;
+                              line-height: 30px;
+}
+.banner-title {
+                              color: #272727;
+                              font-family: Lato;
+                              font-size: 70px;
+                              font-weight: 800;
+                          }
 
 .title {
                               color: #272727;
@@ -35,14 +49,7 @@
                               font-weight: 400;
                               margin-bottom: 5px;
 }
-.flower-des {
-                              color: rgba(39, 39, 39, 0.60);
-                              font-family: Lato;
-                              font-size: 18px;
-                              width: 85%;
-                              font-weight: 400;
-                              line-height: 30px;
-}
+ 
 .btn {
       padding: 20px 43px;
       border-radius: 8px;
@@ -53,7 +60,7 @@
                               width: 550px;
                               height: 620px;
                               margin-top: 50px;
-                              margin-right: 150px;
+                              margin-right: 120px;
                               /* margin-left: 100px */
                               
 }
@@ -84,4 +91,245 @@
                               margin-left: 675px;
                               color: white;
                               box-shadow: #272727;                  
+}
+
+h3{
+    margin-top: 40px;
+}
+.other-shop{
+                              text-align: center;
+                              padding-top: 50px;
+                          
+}
+.section-description {
+                              color: rgba(39, 39, 39, 0.60);
+                              font-family: Lato;
+                              font-size: 10px;
+                              font-weight: 100;
+                              line-height: 30px;
+                              align-items: center;
+                              margin-bottom: 15px;
+}
+                          
+.three-flowers {
+                              display: flex;
+                              /* align-items: center; */
+                              gap: 15px;
+                              width: 70%;
+                              text-align: center;
+                              margin-left: 15%;
+}
+                          
+.flowers-title1 {
+                              padding-top: 100px;
+                              text-decoration: underline;
+}
+                          
+.flowers {
+                              background: #FFF;
+                              border-radius: 300px 300px 0px 0px;
+                              background: rgba(167, 33, 98, 0.15);
+                              /* align-items: center; */
+                              padding: 0%;
+                              margin-bottom: 0;
+                              align-items: center;
+                          
+}
+.section-img1 {
+                              text-align: center;
+                              padding: 20px;
+                          
+}
+                          
+.flowers-title {
+                              padding: 10px;
+                              text-decoration: underline;
+}
+                          
+.section-img2 {
+                              text-align: center;
+                              padding: 5px;
+}
+                          
+.services {
+                              display: flex;
+                              /* justify-content: space-around; */
+                              gap: 100px;
+                              /* align-items: center; */
+                              text-align: center;
+                              border-radius: 8px;
+                              background: rgba(39, 39, 39, 0.05);
+                              margin: 40px;
+                              margin-left: 25%;
+                              margin-right: 25%;
+                              height: 200px;
+}
+                          
+.services-img {
+                              align-items: center;
+                              margin-top: 35px;
+}
+                          
+.services-img-des {
+                              margin-top: 10px;
+}
+                          
+.service3 {
+                              padding-left: 20px;
+}
+                          
+.section-offer {
+                              border-radius: 8px;
+                              background: rgba(229, 84, 115, 0.05);
+                              display: flex;
+                              align-items: center;
+                              padding-left: 5%;
+                          
+}
+                          
+.text-primary {
+                              color: #E55473;
+}
+                          
+.offer {
+                              margin-left: 40px;
+                              margin-left: 20%;
+                              gap: 20px;
+                              align-items: center;
+                              text-align: center;
+}
+                          
+.social-side {
+                              margin-top: 2%;
+                              text-align: center;
+                              gap: 2px;
+                              padding: 90px 90px;
+                              background: #FFF;
+}
+                          
+.four-flowers {
+                              display: flex;
+                              justify-content: space-around;
+                              margin-bottom: 0;
+                              
+                              
+                          
+                              /* padding-left: 240px; */
+                              /* padding-right: 240px; */
+                              /* margin: 50px 50px; */
+                              /* padding: 80px 80px; */
+                          
+}
+                          
+.social-img1 {
+                              background: url('../Flower\ Asset/.social-img1'), lightgray 50% / cover no-repeat;
+                              width: 342px;
+                              height: 396px;
+}
+                          
+.social-img2 {
+                              background: url(../Flower\ Asset/.social-img2), lightgray 50% / cover no-repeat;
+                              width: 342px;
+                              height: 396px;
+}
+                          
+.social-img3 {
+                              background: url(../Flower\ Asset/.social-img3), lightgray 50% / cover no-repeat;
+                              width: 342px;
+                              height: 396px;
+}
+                          
+.social-img4 {
+                              background: url(../Flower\ Asset/.social-img4), lightgray -11.535px 0px / 173.728% 100% no-repeat;
+                              width: 342px;
+                              height: 396px;
+}
+                          
+.social-description {
+                              color: rgba(39, 39, 39, 0.60);
+                              text-align: center;
+                              font-family: Lato;
+                              font-size: 18px;
+                              font-weight: 400;
+                              margin-bottom: 24px;
+                          
+}
+                          
+.section-input {
+                              text-align: center;
+                              height: 45vh;
+                              width: 1000px;
+                              margin-left: 260px;
+                              border-radius: 8px;
+                              background-image: url('../style/input.png');
+                              background-repeat: no-repeat;
+                              
+                              background-size: contain, cover;
+                          
+}
+                          
+.input-details {
+                              /* background-image: url('../Flower\ Asset/'); */
+                              text-align: center;
+                              padding: 8%;
+                          
+                          
+}
+                          
+.input-section-title {
+                              margin-bottom: 15px;
+}
+                          
+.input-section-description {
+                              margin-bottom: 40px;
+}
+                          
+.input-form {
+                              align-items: center;
+                              width: 500px;
+                              height: 55px;
+                              border-radius: 8px;
+                              background: #FFF;
+}
+                          
+footer {
+                              width: 100%;
+                              height: 35vh;
+                              background: #111010;
+                              color: white;
+                              line-height: 1.8em;
+                              text-align: center;
+                              margin-top: 2%;
+}
+                          
+.footer-title {
+                              /* color: #E55473; */
+                              font-family: Lato;
+                              font-size: 48px;
+                              font-weight: 800;
+                          
+}
+                          
+#footer {
+                              padding: 80px;
+}
+                          
+.footer-description {
+                              padding: 15px;
+                              color: rgba(255, 255, 255, 0.90);
+                              text-align: center;
+                              font-family: Lato;
+                              font-size: 18px;
+                              font-weight: 400;
+                          
+}
+                          
+.copy {
+                              padding: 15px;
+                              color: rgba(255, 255, 255, 0.40);
+                              text-align: center;
+                              font-family: Lato;
+                              font-size: 16px;
+                              font-weight: 400;
+                          
 }
