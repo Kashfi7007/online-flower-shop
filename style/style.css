@@ -1,0 +1,7 @@
+/* header part */
+.header{
+                              display: flex;
+                              width: 708px;
+                              flex-direction: column;
+                              flex-shrink: 0;
+}
